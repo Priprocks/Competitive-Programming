@@ -1,16 +1,16 @@
 # Competitive-Programming
 This repo contains implementation of algorithms and solutions to various problems!
 
-##Algorithms
+## Algorithms
 * FFT
 
-##Practice problems
+## Practice problems
 
 ## Authors
 
 * **Pritam Pathak**
 
-###Competitive Profile:
+### Competitive Profile:
 
 * [Codechef](https://www.codechef.com/users/priprocks)
 * [Codeforces](http://codeforces.com/profile/Priprocks)
