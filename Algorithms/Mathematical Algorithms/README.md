@@ -1,5 +1,11 @@
 ## Mathematical Algorithms
 
+# Implementations-
+
+* **FFT**
+
+* **Improved FFT**
+
 * **Sum of series: 5 + 55 + 555 + ...**
 
     ![=5/9(5+55+555+...)](http://latex.codecogs.com/gif.latex?%3D5/9%20%289&plus;99&plus;999&plus;...%29)
@@ -34,4 +40,4 @@
 
         -Increment for day(d)- d
 
-    [Note: If the month is January or February, the year must be decremented by 1 to account for the leap year problem] 
+    [Note: If the month is January or February, the year must be decremented by 1 to account for the leap year problem]
