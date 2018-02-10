@@ -1,10 +1,13 @@
-## Mathematical Algorithms
+# Mathematical Algorithms
 
-# Implementations-
+## Implementations-
 
 * **FFT**
 
 * **Improved FFT**
+
+
+## Approach-
 
 * **Sum of series: 5 + 55 + 555 + ...**
 
